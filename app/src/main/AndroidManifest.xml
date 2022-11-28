@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.proyek1adewyah">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Proyek1Adewyah">
+        <activity
+            android:name=".Frame2Layout"
+            android:exported="false" />
+        <activity
+            android:name=".Frame1Layout"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LatihanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IdeProyek"
+            android:exported="false" />
+        <activity
+            android:name=".LinearActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".LinearActivity1"
+            android:exported="false" />
+
+    </application>
+</manifest>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/a10</item>
+        <item>@drawable/a12</item>
+        <item>@drawable/a14</item>
+    </array>
+    <array name="colors">
+        <item>@color/pink</item>
+        <item>@color/lilac</item>
+        <item>@color/blue</item>
+    </array>
+    <array name="iconsBaru">
+        <item>@drawable/newicon</item>
+        <item>@drawable/newicon2</item>
+        <item>@drawable/newicon3</item>
+    </array>
+</resources>

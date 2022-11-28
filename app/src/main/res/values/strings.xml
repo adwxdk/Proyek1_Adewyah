@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Proyek1 Adewyah</string>
+    <!--IDENTITAS DIRI-->
+    <string name="nama">Adewyah</string>
+    <string name="nim">232010030</string>
+    <string name="fakultas">Pendidikan MIPA dan Teknologi</string>
+    <string-array name="prodi">
+        <item>Pendidikan Matematika</item>
+        <item>Pendidikan Fisika</item>
+        <item>Pendidikan Teknologi Informasi</item>
+        <item>Pendidikan Biologi</item>
+    </string-array>
+
+    <!--APLIKASI-->
+    <string name="pertama">Ini adalah desain pertama di Android</string>
+    <string name="pesan">Tuliskan pesan anda disini</string>
+    <string name="bPertama">Tekan</string>
+    <string name="bKedua">Lepas</string>
+    <string name="cb1">Pilihan 1</string>
+    <string name="cb2">Pilihan 2</string>
+    <string name="jk1">Laki-laki</string>
+    <string name="jk2">Perempuan</string>
+
+    <!--LinearLayout 2-->
+    <string name="kepada">Kepada</string>
+    <string name="subyek">Subyek</string>
+    <string name="isi">Isi</string>
+    <string name="kirim">Kirim</string>
+
+    <!--Company Profile-->
+    <string name="ide">Company Profile</string>
+    <string name="perusahaan">PT. AMANAH AINIE WISATA</string>
+    <string name="alamat">Jl. Tebu No. 27 Pontianak</string>
+    <string name="name">H. Idris Usman</string>
+    <string name="phone">0857 5277 2700</string>
+    <string name="email">www.ainiewisata.com</string>
+    <string name="melayani">Full Paket Umrah, Visa, Hotel, Bus Umrah, Badal Haji, Badal Umrah, Tiket Internasional dan Domestik</string>
+
+    <!--Login Button-->
+    <string name="copyright">Created by Adewyah \n IKIP PGRI Pontianak</string>
+    <string name="username">Masukkan Nama Anda</string>
+</resources>
